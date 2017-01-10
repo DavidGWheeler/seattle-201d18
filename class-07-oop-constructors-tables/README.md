@@ -11,7 +11,6 @@
 # Readings
 
 - HTML Chapter 6: "Tables"
-- HTML Chapter 13: "Boxes" (CSS)
 
 ---
 
@@ -32,16 +31,6 @@ We'll do code reviews to begin class most days
 - p.131: Basic table structure
 - p.132: Table headings
 - p.133: Spanning columns & rows
-
-**HTML Chapter 13: "Boxes" (CSS)**
-
-- p.303: Box width, height, overflow
-- p.307: Border, margin, & padding
-- p.308: Border width, style, & color
-- p.315: Centering content
-- p.317: Changing inline/block
-- p.318: Visibility
-- p.321: Additional border topics (border images, box shadow, border radius)
 
 [-top-](#top)
 
